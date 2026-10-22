@@ -35,3 +35,7 @@ Open `QuantFlow.swiftpm` in Swift Playgrounds on iPad or Mac. The project uses S
 ## Privacy and data
 
 The app is designed to work offline. Progress is stored locally on the device. No backend or account is required.
+
+## License
+
+QuantFlow is licensed under the MIT License. See [LICENSE](LICENSE) for details.
