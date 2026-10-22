@@ -1,0 +1,10 @@
+# Swift Playgrounds generated workspace metadata
+.swiftpm/
+
+# macOS metadata
+.DS_Store
+
+# Xcode/Swift build output
+.build/
+DerivedData/
+*.xcuserstate
