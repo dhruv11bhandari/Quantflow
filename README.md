@@ -14,6 +14,7 @@ QuantFlow is an educational practice tool. It does not connect to financial mark
 
 ## Open the project
 
+
 Open `QuantFlow.swiftpm` in Swift Playgrounds on iPad or Mac. The project uses SwiftUI and Apple’s Swift Playgrounds package format; it has no third-party package dependencies.
 
 ## Requirements
