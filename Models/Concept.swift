@@ -46,6 +46,7 @@ struct Concept: Identifiable {
     let challenge: QuantQuestion
 }
 
+
 extension Concept {
     /// One-line version of the formula, for list rows and accessibility.
     var formulaLine: String {
